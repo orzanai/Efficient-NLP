@@ -61,3 +61,5 @@ We didn’t just benchmark models, we priced accuracy. Using CodeCarbon and two 
 - Abdullah Orzan — s2aborza@uni-trier.de
 - Bartuğ Hacır — s2bahacr@uni-trier.de
 - İpek Nur Dolu — s2ipdolu@uni-trier.de
+
+** The full paper is not shared here due to institutional policy.
