@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+datasets
+scikit-learn
+codecarbon
+pandas
+matplotlib
+seaborn
+transformers>=4.40.0
+accelerate>=0.30.0
+jinja2==3.1.4
+markupsafe>=2.1.5
